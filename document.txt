@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world feature branch kowshik yadav
+=======
+hello world feature branch kowshik reddy
+>>>>>>> firstbranch
